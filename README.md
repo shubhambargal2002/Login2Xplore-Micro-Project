@@ -1,7 +1,7 @@
 # Student Enrollment Form
 ## Description 
 This is a web based html form for Student Enrollment using JsonPowerDB as Database. 
-JsonPowerDB is used to perform CURD operation 
+JsonPowerDB is used to save Student Enrollment web form data and to perform CURD operation 
 
 
 # Benefits of using JsonPowerDB
