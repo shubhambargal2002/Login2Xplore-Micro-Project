@@ -7,10 +7,11 @@ JsonPowerDB is used to save Student Enrollment web form data and to perform CURD
 # Benefits of using JsonPowerDB
 * Simple to use , real time database
 * Web Services API : Minimum development cost
+* MultiMode Database : supports various types of data ( Document, key-value, etc )
 * Serverless Support : Backends code is not required for database 
 * Schema Free : No need for defining schema
 * Simplest way to retrieve data in a JSON format
-* inbuilt support for Querying multiple databases
+* Inbuilt support for Querying multiple databases
 
 # TECH STACK USED
 * HTML
